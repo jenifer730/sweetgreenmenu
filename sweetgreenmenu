@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sweetgreen Prices & Best Menu Items</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        header {
+            background-color: #2a9d8f;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+        }
+        nav {
+            background-color: #264653;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 16px;
+        }
+        main {
+            width: 80%;
+            max-width: 1000px;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #2a9d8f;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #264653;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Sweetgreen Prices & Best Menu Items Ranked for Taste & Value</h1>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">Menu</a>
+    <a href="#">Prices</a>
+    <a href="#">Contact</a>
+</nav>
+
+<main>
+    <h2>Introduction</h2>
+    <p>Sweetgreen has become one of the most popular salad and grain bowl chains in the U.S., known for its fresh, locally sourced ingredients and customizable menu. While its prices may be higher than some fast-food alternatives, many customers believe the quality and nutrition are worth the cost. In this article, we'll explore Sweetgreen's menu prices and rank the best items based on taste and value.</p>
+
+    <h2>Sweetgreen Menu Prices (2025 Updated)</h2>
+    <table>
+        <tr>
+            <th>Menu Item</th>
+            <th>Price (Approx.)</th>
+        </tr>
+        <tr>
+            <td>Signature Salads</td>
+            <td>$10.95 - $14.95</td>
+        </tr>
+        <tr>
+            <td>Warm Bowls</td>
+            <td>$11.95 - $15.95</td>
+        </tr>
+        <tr>
+            <td>Build Your Own Bowl</td>
+            <td>Starts at $9.95</td>
+        </tr>
+        <tr>
+            <td>Side Dishes</td>
+            <td>$3.50 - $6.50</td>
+        </tr>
+        <tr>
+            <td>Drinks</td>
+            <td>$2.95 - $5.50</td>
+        </tr>
+    </table>
+
+    <h2>Best Sweetgreen Menu Items Ranked</h2>
+    
+    <h3>1. Guacamole Greens ($12.75) – Best Overall</h3>
+    <p>A fan-favorite, this salad features roasted chicken, avocado, tomatoes, shredded cabbage, tortilla chips, spring mix, and lime-cilantro jalapeño vinaigrette.</p>
+
+    <h3>2. Harvest Bowl ($13.50) – Best for Heartiness</h3>
+    <p>Packed with warm wild rice, roasted sweet potatoes, apples, roasted chicken, almonds, goat cheese, and balsamic vinaigrette.</p>
+
+    <h3>3. Kale Caesar ($11.95) – Best Classic Option</h3>
+    <p>A healthier take on the Caesar salad with shredded kale, romaine, roasted chicken, parmesan crisps, tomatoes, and Caesar dressing.</p>
+
+    <h3>4. Buffalo Chicken Bowl ($13.95) – Best Spicy Option</h3>
+    <p>Includes blackened chicken, pickled carrots, blue cheese, tomatoes, shredded kale, wild rice, and a spicy cashew dressing.</p>
+
+    <h3>5. Shroomami ($11.95) – Best Vegetarian Option</h3>
+    <p>A plant-based bowl with wild rice, roasted mushrooms, tofu, kale, sunflower seeds, and miso sesame ginger dressing.</p>
+
+    <h3>6. Garden Cobb ($12.50) – Best Protein-Packed Option</h3>
+    <p>Features roasted chicken, avocado, hard-boiled egg, bacon, blue cheese, tomatoes, romaine, and balsamic vinaigrette.</p>
+
+    <h2>Is Sweetgreen Worth the Price?</h2>
+    <p>Sweetgreen may be more expensive than fast-food salads, but its high-quality ingredients, generous portion sizes, and customizable options make it a great value.</p>
+
+    <h3>Ways to Save at Sweetgreen:</h3>
+    <ul>
+        <li><strong>Sweetgreen Rewards Program</strong> – Earn free meals and discounts.</li>
+        <li><strong>Order Through the App</strong> – Get exclusive promotions.</li>
+        <li><strong>Build Your Own Bowl</strong> – Customizing can sometimes save money.</li>
+        <li><strong>Use Student & Corporate Discounts</strong> – Some locations offer deals.</li>
+    </ul>
+
+    <h2>Final Thoughts</h2>
+    <p>While Sweetgreen's menu might not be the cheapest, the quality, taste, and freshness make it a worthwhile investment in healthy eating. Try one of our top picks and let us know your favorite!</p>
+</main>
+
+<footer>
+    <p>&copy; 2025 Sweetgreen Fan Page | All rights reserved.</p>
+</footer>
+
+</body>
+</html>
